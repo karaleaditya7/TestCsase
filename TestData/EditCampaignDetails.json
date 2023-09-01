@@ -1,0 +1,13 @@
+{
+  "budgetCurrency": "USD",
+  "budgetAmount": 50000,
+  "industry": "Gaming",
+  "brand": "Test Automation Brand",
+  "country": "India",
+  "product": "Car",
+  "purposeSection": "Brand awareness",
+  "format": "Shoutout",
+  "productValue": 25,
+  "fromDate": 32,
+  "toDate": 40
+}

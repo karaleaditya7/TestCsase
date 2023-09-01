@@ -1,0 +1,47 @@
+﻿{
+    "webdriver": {
+        "browserName": "Chrome",
+        "screenshotsPath": "C:\\screenshots\\STORE",
+        "defaultTimeout": "10",
+        "browserLanguage": "en"
+    },
+
+    "runConfiguration": {
+        "applicationName": "Influeri",
+        "env": "envStage"
+    },
+
+    "envStage": {
+        "applicationUrl": "https://manage-blue.staging.influeri.com/",
+        "atlasUrl": "https://atlas-blue.staging.influeri.com/drafts",
+        "InfluencersUrl": "https://go-blue.staging.influeri.com/",
+        "PostmarkUrl": "https://account.postmarkapp.com/servers/9611958/streams/outbound/events",
+        "customerEmail": "gaurishankars@heaptrace.com",
+        "customerPassword": "JtS0*$OaJOb*",
+        "influencerEmail": "gaurishankars@heaptrace.com",
+        "influencerPassword": "JtS0*$OaJOb*",
+        "atlasEmail": "gaurishankars@heaptrace.com",
+        "atlasPassword": "JtS0*$OaJOb*",
+        "PostmarkUsername": "gauris",
+        "PostmarkPassword": "75L^bYAkvZhj"
+    },
+
+  "envDemo": {
+    "applicationUrl": "https://manage-blue.staging.influeri.com/",
+    "atlasUrl": "https://atlas-blue.staging.influeri.com/drafts",
+    "customerEmail": "gaurishankars@heaptrace.com",
+    "customerPassword": "*$OaJObJtS0*",
+    "influencerEmail": "gaurishankars@heaptrace.com",
+    "influencerPassword": "JtS0*$OaJOb*",
+    "atlasEmail": "gaurishankars@heaptrace.com",
+    "atlasPassword": "JtS0*$OaJOb*"
+  },
+
+    "wait": {
+        "shortWait": 2,
+        "mediumWait": 5,
+        "longWait" :  10
+    }
+
+
+}

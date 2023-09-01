@@ -1,0 +1,18 @@
+﻿{
+  "campaignName": "Test Auto Campaign",
+  "companyName": "Test Auto Company",
+  "websiteUrl": "Test Auto Website",
+  "budgetCurrency": "SEK",
+  "budgetAmount": 20000,
+  "industry": "Sports",
+  "brand": "Test Automation Brand",
+  "country": "Norway",
+  "product": "Shoes",
+  "purposeSection": "Online traffic",
+  "format": "Service Promotion",
+  "socialMediaPostsForInstagram": [ "Feed Photo Post", "Feed Video Post", "Story Photo Post", "Story Video Post", "Reels" ],
+  "socialMediaPostsForTiktok": [ "TikTok Video", "TikTok Story" ],
+  "productValue": 50,
+  "fromDate": 22,
+  "toDate" :  29
+}
